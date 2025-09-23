@@ -3,7 +3,7 @@
 Goal: generate a taylor series of the general form
 
 $$
-\sum_{n=0}^{\infty} \frac{f^n(a)}{n!} (x-a)^2
+\sum_{n=0}^{\infty} \frac{f^n(a)}{n!} (x-a)^n
 $$
 
 Without storing the explicit derivatives of functions, use the estimator
